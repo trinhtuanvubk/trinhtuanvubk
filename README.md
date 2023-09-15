@@ -13,7 +13,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanvutrinh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuanvutrinh/)](https://www.linkedin.com/in/tuanvutrinh/) [![Gmail Badge](https://img.shields.io/badge/-vutuantrinh2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vutuantrinh2000@gmail.com)](mailto:vutuantrinh2000@gmail.com) 
 <img align="left-align" src="https://visitor-badge.laobi.icu/badge?page_id=trinhtuanvubk.trinhtuanvubk">
-<hr>
+
 
 ```python
 class MachineLearningEngineer:

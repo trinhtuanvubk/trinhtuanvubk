@@ -13,8 +13,36 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tuanvutrinh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuanvutrinh/)](https://www.linkedin.com/in/tuanvutrinh/) [![Gmail Badge](https://img.shields.io/badge/-vutuantrinh2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vutuantrinh2000@gmail.com)](mailto:vutuantrinh2000@gmail.com) 
 <img align="left-align" src="https://visitor-badge.laobi.icu/badge?page_id=trinhtuanvubk.trinhtuanvubk">
+<hr>
 
+```python
+class AIEngineer:
 
+    def __init__(self):
+        self.username = 'VuTT'
+        self.name = 'Tuan-Vu Trinh'
+        self.role = 'AI/ML Engineer'
+        self.topic = {
+            'voice': ['Speech Recognition', 'Speech Synthesis', 'Keyword Spotting', 'Voice Conversion'],
+            'nlp': ['NER', 'Intent Classification', 'Question Answering', 'Paraphrasing'],
+            'cv': ['OCR', 'Yolo', 'Image2Image', 'Segmentation']
+          }
+        self.code = {
+            'deployment': ['Docker', 'Triton Inference', 'BentoML', 'ONNXRuntime', 'TFLite', 'TorchScript'],
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'gRPC'],
+            'frontend': ['HTML', 'CSS', 'Python', 'Streamlit', 'Gradio'],
+            'database': ['MongoDB', 'Minio'],
+            'packaging': ['Java Android SDK', 'C# .Net SDK'] 
+        }
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+    
+
+if __name__ == '__main__':
+    me = AIEngineer()
+    me.say_hi()
+```
 
 <hr>
 

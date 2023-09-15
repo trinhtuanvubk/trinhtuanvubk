@@ -16,31 +16,18 @@
 <hr>
 
 ```python
-class AIEngineer:
+class MachineLearningEngineer:
 
     def __init__(self):
-        self.username = 'VuTT'
         self.name = 'Tuan-Vu Trinh'
-        self.role = 'AI/ML Engineer'
-        self.topic = {
-            'voice': ['Speech Recognition', 'Speech Synthesis', 'Keyword Spotting', 'Voice Conversion'],
-            'nlp': ['NER', 'Intent Classification', 'Question Answering', 'Paraphrasing'],
-            'cv': ['OCR', 'Yolo', 'Image2Image', 'Segmentation']
-          }
-        self.code = {
-            'deployment': ['Docker', 'Triton Inference', 'BentoML', 'ONNXRuntime', 'TFLite', 'TorchScript'],
-            'backend': ['Python', 'Flask', 'Django', 'FastAPI', 'gRPC'],
-            'frontend': ['HTML', 'CSS', 'Python', 'Streamlit', 'Gradio'],
-            'database': ['MongoDB', 'Minio'],
-            'packaging': ['Java Android SDK', 'C# .Net SDK'] 
-        }
+        self.position = 'AI/ML Engineer'
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
     
 
 if __name__ == '__main__':
-    me = AIEngineer()
+    me = MachineLearningEngineer()
     me.say_hi()
 ```
 

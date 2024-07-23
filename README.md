@@ -15,7 +15,7 @@
 
 <!-- <img align="left-align" src="https://visitor-badge.laobi.icu/badge?page_id=trinhtuanvubk.trinhtuanvubk"> -->
 
-
+<!--
 ```python
 class MachineLearningEngineer:
 
@@ -31,6 +31,7 @@ if __name__ == '__main__':
     me = MachineLearningEngineer()
     me.say_hi()
 ```
+-->
 
 <hr>
 
